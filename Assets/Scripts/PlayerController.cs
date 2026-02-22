@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public int speed = 20;
+    public int speed = 30;
     public float mouseSensitivity = 100f;
 
     void Update()
